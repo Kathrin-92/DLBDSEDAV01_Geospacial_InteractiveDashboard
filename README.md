@@ -5,15 +5,18 @@
 1. [General Info](#General-Info)
 2. [Installation](#Installation)
 3. [Demo](#Demo)
-4. [Usage and Main Functionalities](#Usage-and-Main-Functionalities)
-5. [Contributing](#Contributing)
+4. [Contributing](#Contributing)
 
 
-## General-Info
-This Dashboard allows to interactively explore life expectancy across the globe. The program was developed as part of a university project (B.Sc. Data Science). 
+## General Info
+This Dashboard allows to interactively explore life expectancy across the globe. 
+From conception and design to every line of code, the entire Dashboard was worked on by myself. 
+During this project, I was able to deepen my knowledge about Dash and plotly.express. 
+Especially, I was able to familiarize myself with geospacial datasets and work on my data visualization skills, which I greatly enjoied! 
 
 Part of the dashboard and project is the analysis of a geospacial dataset and the creation of five visualizations, including a choropleth map, two line charts, a data card, as well as a bar chart. All visuals are interactive and reactive to one another. 
 
+The code was developed as part of a university project (B.Sc. Data Science, Explorative Data Analysis and Visualization). 
 
 ## Installation
 
@@ -42,27 +45,6 @@ To run the programm, download all data files onto your computer. Replace the pla
 ## Demo
 
 VIDEO 
-
-
-## Usage and Main Functionalities
-
-*Please also refer to the comments within the code itself to get more information on the functionalities of the program.*
-
-#### 0. Loading and Preparing Data for Analysis 
-
-* XXX
-
----
-#### 1. Exploratory Analysis 
-* XX
-
----
-#### 2. App Layout
-* XX
-
----
-#### 3. Dash Components and Interactivity 
-* XXX
           
 
 ## Contributing 
