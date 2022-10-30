@@ -42,10 +42,10 @@ All datasets can be retrieved from the website of the World Bank
 To run the programm, download all data files onto your computer. Replace the placeholders in the main.py codefile with the file path on your computer.   
 
 
-## Demo
+## Demo     
 
-VIDEO 
-          
+https://user-images.githubusercontent.com/71875232/198875441-d8821dc8-6407-4744-a7e7-df700409242c.mp4
+
 
 ## Contributing 
 Your comments, suggestions, and contributions are welcome. 
